@@ -22,5 +22,15 @@ BPTT in RNN <https://www.youtube.com/watch?v=M_p_fVJJhiY>
 
 3. <https://www.youtube.com/watch?v=2rdQLU9a-SE>
 
-4. 
+4. <https://www.youtube.com/watch?v=Opj2AT0iYCw>
+
+5. <https://www.youtube.com/watch?v=4vryB1QhBNc&list=WL&index=3&t=1356s>
+
+6. <https://www.youtube.com/watch?v=9TFnjJkfqmA?
+
+7. <https://www.youtube.com/watch?v=4vryB1QhBNc&t=1356s>
+
+8. <https://www.youtube.com/watch?v=8HyCNIVRbSU>
+
+9. <https://www.youtube.com/watch?v=LfnrRPFhkuY>
 
