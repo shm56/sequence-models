@@ -14,6 +14,12 @@ BPTT in RNN <https://www.youtube.com/watch?v=OvCz1acvt-k>
 
 BPTT in RNN <https://www.youtube.com/watch?v=M_p_fVJJhiY>
 
+<http://colah.github.io/posts/2015-08-Backprop/>
+
+https://cs231n.github.io/optimization-2/
+
+<https://dennybritz.com/posts/wildml/recurrent-neural-networks-tutorial-part-3/>
+
 **LSTM**
 
 1. <https://www.youtube.com/watch?v=HUlN5mHNqhw>
